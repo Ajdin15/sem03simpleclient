@@ -5,7 +5,7 @@ import (
 	"net"
 	"log"
 	"os"
-        "github.com/Ajdin15/sem03simpleclient"
+        "github.com/Ajdin15/is105sem03/mycrypt"
 )
 
 func main() {
